@@ -10,12 +10,12 @@ Dibangun menggunakan **React JS** sebagai Frontend dan **Express JS** sebagai Ba
 
 ### Frontend
 - ⚛️ React JS
-- 🎨 Tailwind CSS / CSS
+- 🎨 Tailwind CSS 
 
 ### Backend
 - 🟢 Node.js
 - 🚂 Express JS
-- 🗄️ MongoDB / MySQL
+- 🗄️  MySQL
 
 ---
 
