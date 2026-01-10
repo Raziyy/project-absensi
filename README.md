@@ -25,3 +25,6 @@ Dibangun menggunakan **React JS** sebagai Frontend dan **Express JS** sebagai Ba
 - **Database**: Menyimpan data user dan absensi
 
 ---
+
+Tampilan Website
+<img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/60216804-4ebc-42d3-8169-1409ad579110" />
